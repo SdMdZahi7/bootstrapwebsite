@@ -606,6 +606,8 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 ### Home Page:
+![image](https://user-images.githubusercontent.com/94165327/153736507-10aebac4-d929-4137-9af1-adeb24e154f5.png)
+### Galary page:
 
 
 ## Result:
