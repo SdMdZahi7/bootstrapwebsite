@@ -29,6 +29,7 @@ Validate the layout in various browsers.
 
 Validate the HTML code.
 
+
 ### Step 6:
 
 Publish the website in the given URL.
